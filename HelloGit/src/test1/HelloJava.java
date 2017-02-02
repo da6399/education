@@ -7,8 +7,7 @@ public class HelloJava {
 		System.out.println("Hello Java~~~");
 		System.out.println("First Commit Work");
 		
-		
-		//여긴 branch한 내용!입니다. cd
-		System.out.println("Second Commit work");
+		//지역저장소 내용 추가 
+		System.out.println("Thirf commit work");
 	}
 }
